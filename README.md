@@ -9,8 +9,8 @@
 ### Liniquer Silva
 
 ##### Especialista Frontend | NodeJs | Typescript | Javascript | React | React Native | Angular | Vue
-
-##### Especialista Frontend Engineer com mais de 10 anos de experiência em desenvolvimento de soluções web para startups e grandes empresas. Bacharel em Ciência da Computação e pós-graduado em Engenharia de Software pela PUC Minas, possuo sólida expertise em tecnologias frontend e backend, com especialização em frameworks modernos como React, Angular e Vue.js, além de forte domínio em TypeScript, Node.js e arquitetura de sistemas.
+<div style="text-align: justify">
+##### Especialista Frontend Engineer com mais de 10 anos de experiência em desenvolvimento de soluções web para startups e grandes empresas. Bacharel em Ciência da Computação e pós-graduado em Engenharia de Software pela PUC Minas, possuo sólida expertise em tecnologias frontend e backend, com especialização em frameworks modernos como React, Angular e Vue.js, além de forte domínio em TypeScript, Node.js e arquitetura de sistemas.</div>
 
 ----
 #### 📧 Contatos:
