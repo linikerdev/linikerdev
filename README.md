@@ -26,7 +26,7 @@
 
 <div>
 <strong>:: Front-end: </strong>
-<img align="center" title="HTML5" alt="html5" height="30" width="40" 
+<img align="center" title="HTML5" alt="html5" height="30" width="40" bottom="10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img align="center" title="CSS3" alt="css" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
