@@ -25,7 +25,7 @@
 #### 💻 Ferramentas e Tecnologias
 
 <div>
-<strong>Front-end: </strong>
+<strong>:: Front-end: </strong>
 <img align="center" title="HTML5" alt="html5" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
 <img align="center" title="CSS3" alt="css" height="30" width="40" 
@@ -52,7 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 </div>
 <br/>
 <div>
-<strong>Back-end: </strong>
+<strong>:: Back-end: </strong>
   <img align="center" title="NodeJs" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
   <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
   <img align="center" title="Python" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
