@@ -45,6 +45,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 <img  align="center" title="Redux" alt="Redux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="center" title="Webpack" alt="Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
 <img align="center" title="Tailwind" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="center" title="NextJs" alt="NextJs" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="center" title="Nuxt" alt="Nuxt" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
 
 
 </div>
