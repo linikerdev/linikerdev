@@ -4,7 +4,9 @@
     >
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/linikerdev/linikerdev/refs/heads/main/profile.webp"  width="350px" height="350px" height="280px" align="right">
 </picture>
+
 <br>
+
 ### Liniquer Silva
 
 ##### Especialista Frontend | NodeJs | Typescript | Javascript | React | React Native | Angular | Vue
