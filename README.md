@@ -94,8 +94,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
  <img align="center" title="Docker" alt="Docker" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
- <img align="center" title="Docker" alt="Docker" height="30" width="40"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="center" title="Kubernetes" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 <br>
