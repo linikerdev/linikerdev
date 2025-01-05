@@ -29,26 +29,26 @@ Especialista Frontend Engineer com mais de 10 anos de experiência em desenvolvi
 <strong>:: Front-end: </strong>
 <img align="center" title="HTML5" alt="html5" height="30" width="40" bottom="10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img align="center" title="CSS3" alt="css" height="30" width="40" 
+<img align="center" title="CSS3" alt="css" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img align="center" title="Javascript" alt="javascript" height="30" width="40" 
+<img align="center" title="Javascript" alt="javascript" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img align="center" title="Typescript" alt="typescript" height="30" width="40" 
+<img align="center" title="Typescript" alt="typescript" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-<img align="center" title="ReactJs" alt="react" height="30" width="40" 
+<img align="center" title="ReactJs" alt="react" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-<img align="center" title="Angular" alt="angular" height="30" width="40" 
+<img align="center" title="Angular" alt="angular" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
-<img align="center" title="VueJs" alt="vuejs" height="30" width="40" 
+<img align="center" title="VueJs" alt="vuejs" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"/>
-<img align="center" title="Jest" alt="Jest" height="30" width="40" 
+<img align="center" title="Jest" alt="Jest" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img  align="center" title="Redux" alt="Redux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="center" title="Webpack" alt="Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
 <img align="center" title="Tailwind" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" title="NextJs" alt="NextJs" height="30" width="40" 
+<img align="center" title="NextJs" alt="NextJs" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="center" title="Nuxt" alt="Nuxt" height="30" width="40" 
+<img align="center" title="Nuxt" alt="Nuxt" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
 </div>
 <br/>
@@ -62,20 +62,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
   <img align="center" title="ExpressJs" alt="ExpressJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" title="cakePHP" alt="cakePHP" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" />
-  <img 
+  <img
   align="center" title="FastApi" alt="FastApi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 
-</div>      
+</div>
 <br>
 <div>
 <strong>:: Banco de dados: </strong>
-  <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" 
+  <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" title="MYSQL" alt="MYSQL" height="30" width="40" 
+  <img align="center" title="MYSQL" alt="MYSQL" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img align="center" title="AWS-dynamodb" alt="AWS-dynamodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
   <img align="center" title="MariaDB" alt="MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
- 
+
 </div>
 <br>
 <div>
@@ -92,8 +92,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 <img align="center" title="Git" alt="Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" title="GitLab" alt="GitLab" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-
-
+ <img align="center" title="Docker" alt="Docker" height="30" width="40"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+ <img align="center" title="Docker" alt="Docker" height="30" width="40"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="center" title="Kubernetes" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 <br>
 
@@ -116,14 +119,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQELvAoJpa-ROA/company-logo_100_100/company-logo_100_100/0/1723025499302?e=1737590400&v=beta&t=zFnXEO9dKS9c5HB9QJnXoNOHcvDgDcO7f6qPRCiu7xU"/>](https://www.vr.com.br/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+**Especialista Sistemas TI - Front-end** \
+[**VR BENEFÍCIOS**](https://www.vr.com.br) • Remoto \
+Linguagens & Tecnologias: `Typescript`, `JavaScript`, `React`,`React Native`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/D4D0BAQFm_9-3d5hL0Q/company-logo_100_100/company-logo_100_100/0/1713366686776?e=1737590400&v=beta&t=aeb4A4yqSERdWGw3c1ivSebDeeJCZiua5AQvVxGTUCQ"/>](https://rocketseat.com.br/)
 
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
@@ -139,7 +142,7 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/linikerdev/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 <!--
 **linikerdev/linikerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
