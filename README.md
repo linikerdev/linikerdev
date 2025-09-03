@@ -11,7 +11,10 @@
 ##### Especialista Frontend | NodeJs | Typescript | Javascript | React | React Native | Angular | Vue
 
 <div style="text-align: justify">
-Especialista Frontend Engineer com mais de 10 anos de experiência em desenvolvimento de soluções web para startups e grandes empresas. Bacharel em Ciência da Computação e pós-graduado em Engenharia de Software pela PUC Minas, possuo sólida expertise em tecnologias frontend e backend, com especialização em frameworks modernos como React, Angular e Vue.js, além de forte domínio em TypeScript, Node.js e arquitetura de sistemas.</div>
+Desenvolvedor Full Stack Sênior com mais de 11 anos de experiência, especializado em Front End e arquiteturas
+escaláveis, incluindo Module Federation, Micro Frontends e Microsserviços. Experiência consolidada em
+gerenciamento de APIs e desenvolvimento de interfaces de alto desempenho. Atuação em grandes empresas,
+liderando Design Systems, integrações complexas de microsserviços e projetos críticos de alto impacto.</div>
 
 ----
 #### 📧 Contatos:
@@ -25,7 +28,7 @@ Especialista Frontend Engineer com mais de 10 anos de experiência em desenvolvi
 
 #### 💻 Ferramentas e Tecnologias
 
-<div>
+<div  bgcolor='red'>
 <strong>:: Front-end: </strong>
 <img align="center" title="HTML5" alt="html5" height="30" width="40" bottom="10px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -119,26 +122,32 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQELvAoJpa-ROA/company-logo_100_100/company-logo_100_100/0/1723025499302?e=1737590400&v=beta&t=zFnXEO9dKS9c5HB9QJnXoNOHcvDgDcO7f6qPRCiu7xU"/>](https://www.vr.com.br/)
+[<img align="left" height="80px" width="80px" alt="Skyone" src="./skyonesolutions_logo.jpeg"/>](https://www.skyone.solutions/)
 
-**Especialista Sistemas TI - Front-end** \
-[**VR BENEFÍCIOS**](https://www.vr.com.br) • Remoto \
-Linguagens & Tecnologias: `Typescript`, `JavaScript`, `React`,`React Native`,\
+**Especialista Full Stack - Front End** \
+[**Skyone Solutions**](https://www.skyone.solutions) • Full-time • Nov/2024 - Atual \
+Especialista Full Stack - Front End escalável com React.js, Module Federation e soluções com IA, experiência em arquitetura, testes, module federation e Design System.\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/D4D0BAQFm_9-3d5hL0Q/company-logo_100_100/company-logo_100_100/0/1713366686776?e=1737590400&v=beta&t=aeb4A4yqSERdWGw3c1ivSebDeeJCZiua5AQvVxGTUCQ"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="VR" src="./issoevr_logo.jpeg"/>](https://www.vr.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+**Frontend Developer** \
+[**VR Benefícios**](https://www.vr.com.br) • Full-time • Set/2021 - Out/2024 \
+Frontend Developer no Portal de Benefícios. Criação de soluções de autoatendimento para clientes, suporte a gestores de RH e contribuição para o Design System. Participação em chapter leader de frontend.\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Globo" src="./globo_logo.jpeg"/>](https://www.globo.com/)
+
+**Frontend Developer** \
+[**Meta Serviços em Informática / TV Globo**](https://www.globo.com/) • Full-time • Abr/2018 - Set/2021 \
+Desenvolvimento de portais de esportes, sistemas de remuneração e gestão de talentos. Atuação em design System e dashboards corporativos.\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Iblue" src="./iblueconsulting_logo.jpeg"/>](https://iblueconsulting.com.br/)
 
 **Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+[**Iblue Consulting**](https://iblueconsulting.com.br/) • Contract • Out/2017 - Abr/2018 \
+Atuação em empresas como Ipiranga, desenvolvendo soluções completas com foco em Front End e Back End. Experiência com React, Angular, Node.js, PHP e serviços em AWS.\
 <br/>
 <br/>
 
