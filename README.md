@@ -121,7 +121,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-[<img align="left" height="80px" width="80px" alt="Skyone" src="./skyonesolutions_logo.jpeg"/>](https://www.skyone.solutions/)
+[<img align="left" height="94px" width="94px" alt="Skyone" src="./skyonesolutions_logo.jpeg"/>](https://www.skyone.solutions/)
 
 **Especialista Full Stack - Front End** \
 [**Skyone Solutions**](https://www.skyone.solutions) • Full-time • Nov/2024 - Atual \
