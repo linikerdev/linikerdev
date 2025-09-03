@@ -121,7 +121,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
 [<img align="left" height="80px" width="80px" alt="Skyone" src="./skyonesolutions_logo.jpeg"/>](https://www.skyone.solutions/)
 
 **Especialista Full Stack - Front End** \
@@ -143,12 +142,25 @@ Frontend Developer no Portal de Benefícios. Criação de soluções de autoaten
 Desenvolvimento de portais de esportes, sistemas de remuneração e gestão de talentos. Atuação em design System e dashboards corporativos.\
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Infnet" src="./infnet.jpeg"/>](https://www.infnet.edu.br/)
+
+**Professor** \
+[**INFNET Educação**](https://www.infnet.edu.br/) • Part-time • Ago/2020 - Atual \
+Professor de Pós-graduação em Frontend e Fullstack (React, Vue, Node.js, React Native, NestJS, Adonis).\
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Iblue" src="./iblueconsulting_logo.jpeg"/>](https://iblueconsulting.com.br/)
 
 **Software Engineer** \
 [**Iblue Consulting**](https://iblueconsulting.com.br/) • Contract • Out/2017 - Abr/2018 \
 Atuação em empresas como Ipiranga, desenvolvendo soluções completas com foco em Front End e Back End. Experiência com React, Angular, Node.js, PHP e serviços em AWS.\
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Microware" src="./microware.jpeg"/>](https://www.microware.com.br/)
+
+**Analista de Sistemas Web** \
+[**Microware Tecnologia**](https://www.microware.com.br/) • Full-time • Ago/2015 - Out/2017 \
+Analista de Sistemas Web. Desenvolvimento com PHP, Laravel, CakePHP, MySQL, Javascript.\
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/linikerdev/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
