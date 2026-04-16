@@ -8,13 +8,10 @@
 
 ### Liniquer Silva
 
-##### Especialista Frontend | NodeJs | Typescript | Javascript | React | React Native | Angular | Vue
+##### Especialista Frontend | Full Stack | Arquitetura Frontend | Node.js | TypeScript | React | Next.js | NestJS
 
 <div style="text-align: justify">
-Desenvolvedor Full Stack Sênior com mais de 11 anos de experiência, especializado em Front End e arquiteturas
-escaláveis, incluindo Module Federation, Micro Frontends e Microsserviços. Experiência consolidada em
-gerenciamento de APIs e desenvolvimento de interfaces de alto desempenho. Atuação em grandes empresas,
-liderando Design Systems, integrações complexas de microsserviços e projetos críticos de alto impacto.</div>
+Desenvolvedor Frontend/Full Stack Sênior com mais de 12 anos de experiência, com forte atuação em Frontend Engineering, arquitetura escalável e desenvolvimento de produtos digitais. Expertise consolidada em React.js, Next.js, TypeScript, Node.js e NestJS, com capacidade de atuar em Design Systems, Module Federation, Micro Frontends e Arquiteturas de Microsserviços. Histórico sólido em qualidade de software, testes automatizados e observabilidade. Atuação em grandes empresas (Meta/Globo, VR Benefícios, Skyone Solutions), contribuindo com evolução arquitetural, padronização técnica, performance, escalabilidade e liderança técnica entre times.</div>
 
 ----
 #### 📧 Contatos:
@@ -123,30 +120,34 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.s
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 [<img align="left" height="94px" width="94px" alt="Skyone" src="./skyonesolutions_logo.jpeg"/>](https://www.skyone.solutions/)
 
-**Especialista Full Stack - Front End** \
+**Especialista Frontend** \
 [**Skyone Solutions**](https://www.skyone.solutions) • Full-time • Nov/2024 - Atual \
-Especialista Full Stack - Front End escalável com React.js, Module Federation e soluções com IA, experiência em arquitetura, testes, module federation e Design System.\
+Contribuições com soluções frontend em ambiente de microsserviços. Atuação nos produtos Console e AutoSky. Criação de interfaces, evolução de componentes e contribuições para arquitetura frontend. Integração de testes unitários e iniciativas com uso de IA. Foco em performance e qualidade de software.\
+Tecnologias: React.js, TypeScript, Next.js, NestJS, Material UI, Tailwind CSS, Vite, Jest, Testing Library, Vitest\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="VR" src="./issoevr_logo.jpeg"/>](https://www.vr.com.br/)
 
-**Frontend Developer** \
+**Especialista Frontend** \
 [**VR Benefícios**](https://www.vr.com.br) • Full-time • Set/2021 - Out/2024 \
-Frontend Developer no Portal de Benefícios. Criação de soluções de autoatendimento para clientes, suporte a gestores de RH e contribuição para o Design System. Participação em chapter leader de frontend.\
+Soluções de autoatendimento para clientes e ferramentas para RH. Análise e resolução de problemas reportados por usuários. Evolução de componentes e padrões do Design System, contribuindo para consistência da interface. Contribuições para escalabilidade das aplicações frontend e boas práticas.\
+Tecnologias: TypeScript, React.js, React Native, Next.js, Tailwind CSS, CSS-in-JS, Styled Components, Dynatrace, Webpack com Module Federation, Jest, Testing Library, Sonar\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Globo" src="./globo_logo.jpeg"/>](https://www.globo.com/)
 
-**Frontend Developer** \
+**Desenvolvedor Full Stack** \
 [**Meta Serviços em Informática / TV Globo**](https://www.globo.com/) • Full-time • Abr/2018 - Set/2021 \
-Desenvolvimento de portais de esportes, sistemas de remuneração e gestão de talentos. Atuação em design System e dashboards corporativos.\
+Soluções para produtos digitais e iniciativas internas. Projetos de grande visibilidade como Olimpíadas 2020 e Big Brother Brasil. Desenvolvimento de portais, experiências interativas e painéis compartilhados. Contribuições para evolução do Design System e padronização da experiência visual.\
+Tecnologias: React.js, Redux, Vue.js, Vuex, AngularJS, Angular, TypeScript, Node.js, Python (Flask), PHP, GitHub, Sonar, AWS\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Infnet" src="./infnet.jpeg"/>](https://www.infnet.edu.br/)
 
-**Professor** \
-[**INFNET Educação**](https://www.infnet.edu.br/) • Part-time • Ago/2020 - Atual \
-Professor de Pós-graduação em Frontend e Fullstack (React, Vue, Node.js, React Native, NestJS, Adonis).\
+**Professor de Pós-Graduação** \
+[**INFNET Educação**](https://www.infnet.edu.br/) • Part-time • Ago/2020 - Nov/2025 \
+Disciplinas de frontend e full stack em cursos de pós-graduação. Formação de profissionais em tecnologias modernas. Ensino de boas práticas de desenvolvimento, arquitetura de aplicações e construção de interfaces.\
+Tecnologias: React.js, Vue.js, Node.js, NestJS, AdonisJS, React Native\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Iblue" src="./iblueconsulting_logo.jpeg"/>](https://iblueconsulting.com.br/)
